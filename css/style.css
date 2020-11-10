@@ -1,0 +1,11 @@
+.cabeza{
+    position: relative;
+}
+label{
+    position: static;
+    top: auto;
+}
+input{
+    position: relative;
+
+}
